@@ -1,0 +1,40 @@
+p{
+    background-color: gray;       /*this allows me to make all the p tags have the same color and move it to the right*/
+    margin-right:10%;
+}
+
+.secondparagraph
+{
+    background-color: blue;               /*this made a class that changes the background to blue and centers it*/
+    horiz-align: center;
+}
+
+.quote
+{
+    background-color: pink;
+    padding-bottom:10px;
+
+}
+
+.quote2
+{
+    background-color:pink;
+    padding-bottom:10px;
+}
+
+
+.quote4
+{
+    background-color: pink;
+    padding-bottom:10px;
+}
+
+.header1
+{
+    width:500px;                                        /*added a border */
+    height:100px;
+    padding:10px;
+    border-style: dashed;
+    border-color:black;
+    border-width: 3px;
+}
